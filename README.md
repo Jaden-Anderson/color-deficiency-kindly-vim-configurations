@@ -16,4 +16,4 @@ and the directory can be deleted safely by
 cd ..
 rm -rf color-deficiency-kindly-vim-configurations/
 ```
-after these configurations are applied successfully.
+after these configurations get applied successfully.
