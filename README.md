@@ -8,9 +8,9 @@ To download and apply these configurations, run
 ```
 git clone https://github.com/Jaden-Anderson/color-deficiency-kindly-vim-configurations.git
 cd color-deficiency-kindly-vim-configurations/
-./init.sh
+. init.sh
 ```
-One may check by `vim syncolor.vim` both before and after running `./init.sh` to see the difference,
+One may check by `vim syncolor.vim` both before and after running `. init.sh` to see the difference,
 and the directory can be deleted safely by
 ```
 cd ..
