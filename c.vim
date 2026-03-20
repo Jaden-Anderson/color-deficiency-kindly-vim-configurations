@@ -1,3 +1,5 @@
+syntax  clear               cErrInParen
+syntax  clear               cErrInBracket
 syntax  keyword  cIdentify  main argc argv __VA_ARGS__ errno
 syntax  keyword  cUniConst  F_OK X_OK W_OK R_OK F_LOCK F_TEST F_TLOCK F_ULOCK STDIN_FILENO STDOUT_FILENO STDERR_FILENO
 syntax  keyword  cOprtMore  strlen strnlen typeof offsetof INTN_C UINTN_C INTMAX_C UINTMAX_C
